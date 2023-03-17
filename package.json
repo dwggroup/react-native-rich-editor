@@ -1,7 +1,7 @@
 {
   "name": "@dwggroup/react-native-pell-rich-editor",
   "description": "React Native Rich Editor",
-  "version": "1.8.9",
+  "version": "1.8.10",
   "main": "src/index.js",
   "license": "MIT",
   "private": false,
@@ -16,8 +16,7 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "@types/react-native": "*"
   },
